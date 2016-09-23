@@ -1,4 +1,4 @@
-# awesome-macos
+# Awesome macOS
 A comprehensive list of awesome macOS frameworks & libraries.
 
 # Libraries And Frameworks
