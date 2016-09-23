@@ -1,2 +1,2 @@
 # awesome-macos
-A comprehensive list of macOS libraries.
+A curated list of awesome macOS frameworks & libraries.
