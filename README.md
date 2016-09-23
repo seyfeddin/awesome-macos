@@ -4,7 +4,14 @@ A comprehensive list of awesome macOS frameworks & libraries.
 # Libraries And Frameworks
 ## UI
 * [TwUI](https://github.com/twitter/twui) - A UI framework for Mac based on Core Animation
+
+## Animation
+* [pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
  
+## Networking
+* [Alamofire](https://github.com/Alamofire/Alamofire) - A HTTP networking library written in Swift. :large_orange_diamond:
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A HTTP networking library written in Objective-C.
+
 ## SVG
 * [IJSVG](https://github.com/curthard89/IJSVG) - OSX SVG Library
 
