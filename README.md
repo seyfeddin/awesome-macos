@@ -19,6 +19,7 @@ A comprehensive list of awesome macOS frameworks & libraries.
 ## Networking
 * [Alamofire](https://github.com/Alamofire/Alamofire) - A HTTP networking library written in Swift. :large_orange_diamond:
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A HTTP networking library written in Objective-C.
+* [TRON](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire. :large_orange_diamond:
 
 ## SVG
 * [IJSVG](https://github.com/curthard89/IJSVG) - OSX SVG Library
@@ -30,6 +31,11 @@ A comprehensive list of awesome macOS frameworks & libraries.
 ## Global Shortcuts and Window Management
 * [ShortcutRecorder](https://github.com/Kentzo/ShortcutRecorder) - The only user interface control to record shortcuts.
 * [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store.
+
+## Utilities
+* [Algorithm](https://github.com/CosmicMind/Algorithm) - Algorithm is a collection of data structures that are empowered by a probability toolset. :large_orange_diamond:
+* [Hue](https://github.com/hyperoslo/Hue) - Color utilities written with Swift. :large_orange_diamond:
+* [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift. :large_orange_diamond:
 
 ## Omni Group Frameworks
 * [Omni Group Frameworks](https://github.com/omnigroup/OmniGroup) - A huge collection of frameworks, open sourced by The Omni Group.
