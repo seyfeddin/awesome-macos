@@ -3,7 +3,7 @@ A comprehensive list of awesome macOS frameworks & libraries.
 
 # Where to Start macOS development
 * [Apple macOS Human Interface Guidelines](https://developer.apple.com/go/?id=osx-hig) - You probably should start by reading this. It explains almost everything you should and shouldn't do when developing for the Mac.
-* [Cocoa Programming for Mac OS X 4th Edition](https://www.amazon.com/Cocoa-Programming-OS-Ranch-Guides/dp/0134076958/) - A great deal of macOS programmers started with this book. :large_orange_diamond:
+* [Cocoa Programming for Mac OS X 5th Edition](https://www.amazon.com/Cocoa-Programming-OS-Ranch-Guides/dp/0134076958/) - A great deal of macOS programmers started with this book. :large_orange_diamond:
 * [Ry's Cocoa Tutorial](http://rypress.com/tutorials/cocoa/index) - Clear, concise and practical. Hands down the best digital book on Cocoa Development.
 * [Ry's Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index) - If you are just starting out, read and learn Objective-C first with this free tutorial. (Or you can learn Swift, your choice.)
 
