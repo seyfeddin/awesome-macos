@@ -1,0 +1,50 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+$base-font-size:   18px;
+$base-font-weight: 300;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+.logo {
+  padding: 36px 0 0 0;
+  font-weight: 400;
+  font-size: 100%;
+  color: #550B83;
+  letter-spacing: -1px;
+  line-height: 1.4;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  svg {
+    margin: 0 auto;
+  }
+  h1 {
+    display: inline-block;
+    margin-left: 16px;
+  }
+}
+
+// Import partials from the `minima` theme.
+@import "minima";
