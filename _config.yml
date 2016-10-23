@@ -16,8 +16,8 @@
 title: Awesome macOS
 email: seyfeddin@wearethread.co
 description: A comprehensive list of awesome macOS frameworks & libraries.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://awesomemacos.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/awesome-macos" # the subpath of your site, e.g. /blog
+url: "seyfeddin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seyfoyun
 github_username:  seyfeddin
 
