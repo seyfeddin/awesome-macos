@@ -13,6 +13,8 @@ A comprehensive list of awesome macOS frameworks & libraries.
 * [TwUI](https://github.com/twitter/twui) - A UI framework for Mac based on Core Animation
 * [Masonry](https://github.com/SnapKit/Masonry) - Auto-Layout, simplified.
 * [KSNavigationController](https://github.com/coffellas-cto/KSNavigationController) - UINavigationController on macOS.
+* [StatusItemController](https://github.com/hexedbits/StatusItemController) - Boilerplate controller for Status Item apps.
+* [AboutThisApp](https://github.com/hexedbits/AboutThisApp) - A more customizable about this app panel.
 
 ## Animation
 * [pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
