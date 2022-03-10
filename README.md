@@ -15,6 +15,7 @@ A comprehensive list of awesome macOS frameworks & libraries.
 * [KSNavigationController](https://github.com/coffellas-cto/KSNavigationController) - UINavigationController on macOS.
 * [StatusItemController](https://github.com/hexedbits/StatusItemController) - Boilerplate controller for Status Item apps.
 * [AboutThisApp](https://github.com/hexedbits/AboutThisApp) - A more customizable about this app panel.
+* [RichEditor](https://github.com/will-lumley/RichEditor) - Allows you to turn a native NSTextView into a full blown WYSIWYG editor.
 
 ## Animation
 * [pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
