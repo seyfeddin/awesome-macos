@@ -35,6 +35,7 @@ A comprehensive list of awesome macOS frameworks & libraries.
 ## Global Shortcuts and Window Management
 * [ShortcutRecorder](https://github.com/Kentzo/ShortcutRecorder) - The only user interface control to record shortcuts.
 * [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store.
+* [SnapHotkey](https://snaphotkey.com) - Map keyboard shortcuts directly to Mac apps — one key per app, no Cmd+Tab cycling.
 
 ## Utilities
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - Algorithm is a collection of data structures that are empowered by a probability toolset. :large_orange_diamond:
