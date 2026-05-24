@@ -20,6 +20,9 @@ A comprehensive list of awesome macOS frameworks & libraries.
 ## Animation
 * [pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
 
+## Audio
+* [I/O](https://github.com/comdigis-community/IO) - A multiplatform spatial audio engine written in Swift, focused on high-performance, low-latency DSP, realtime audio graph processing, spatial audio, binaural rendering, XR, and interactive media.
+
 ## Networking
 * [Alamofire](https://github.com/Alamofire/Alamofire) - A HTTP networking library written in Swift. :large_orange_diamond:
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A HTTP networking library written in Objective-C.
