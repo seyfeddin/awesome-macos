@@ -51,3 +51,4 @@ A comprehensive list of awesome macOS frameworks & libraries.
 * [Panda](https://github.com/pablosproject/Panda-Mac-app) - A macOS app for switching between Light and Dark modes
 * [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web
 * [WWDC Mac](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
+* [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
