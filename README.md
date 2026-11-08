@@ -45,6 +45,9 @@ A comprehensive list of awesome macOS frameworks & libraries.
 * [Omni Group Frameworks](https://github.com/omnigroup/OmniGroup) - A huge collection of frameworks, open sourced by The Omni Group.
 
 ## Open Source macOS Apps
+* [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes
+* [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS
+* [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock
 * [GIFs](https://github.com/orta/GIFs) - A Mac App for finding GIFs
 * [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for OS X
 * [FB Messenger](https://github.com/rsms/fb-mac-messenger) - macOS App for Facebook Messenger
