@@ -37,6 +37,7 @@ A comprehensive list of awesome macOS frameworks & libraries.
 * [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store.
 
 ## Utilities
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native Now Playing indicator beside the macOS Dock.
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - Algorithm is a collection of data structures that are empowered by a probability toolset. :large_orange_diamond:
 * [Hue](https://github.com/hyperoslo/Hue) - Color utilities written with Swift. :large_orange_diamond:
 * [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift. :large_orange_diamond:
